@@ -20,8 +20,6 @@ $.fn.pinStripes = function(options) {
 		 $('.stripe').eq(i).css( "border-color", settings.color );
 		 $('.stripe').eq(i).css( "opacity", settings.opacity ); 
 
- 		// Bonus code - undo and see what happens: 
-		 	// $('.stripe').eq(i).css( "transform", "rotate(" +Math.random()*360+"deg)");
 
 		 // Assign the animation - the speed it scrolls on the page
 		 var randomNumber = Math.random()*12000+100; 
