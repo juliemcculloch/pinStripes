@@ -43,5 +43,4 @@ var settings = $.extend({
 }, options)
 
 ### DEMO
-https://github.com/juliemcculloch/pinStripes <br>
 http://www.juliemcculloch.com/pinStripes/index.html
