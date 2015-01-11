@@ -1,6 +1,6 @@
 
 body {
-	background-color: #FABB00; /* change default hex colour if you prefer */
+	background-color: #FABB00; /* change default background hex colour here */
 	margin: 0 auto;
 }
 
@@ -19,4 +19,11 @@ body {
 	position: absolute; 
 	top: 0px;
 	left: 100px;
+}
+
+/* Content section - add if you want content over stripes */
+.foreground {
+	position: relative;
+	z-index: 30;
+
 }
